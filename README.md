@@ -2,6 +2,10 @@
 
 ### uses the sakila database (included)
 
+https://dev.mysql.com/doc/sakila/en/
+
+######
+
 requires installation of pandas, numpy and matplotlib:
 
 ##### pandas
